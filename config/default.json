@@ -1,0 +1,5 @@
+{
+    "serverPort" : 3001,
+    "dbUrl": "mongodb+srv://azatabdykalli:qM5pvvqASKn2fSk6@westkargo.xrre9sa.mongodb.net/?retryWrites=true&w=majority&appName=westkargo",
+    "secretKey" : "mern-secret-key"
+}
